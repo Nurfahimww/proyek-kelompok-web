@@ -1,0 +1,4 @@
+Ini kelompok untuk memenuhi tugas pemrograman web
+rencananya akan membuat web jual-beli laptop
+pembagian tugas terdiri dari database, html/tampilan, dan coding(php,js dll)
+note :  untuk pembagina tidak kaku fleksibel
